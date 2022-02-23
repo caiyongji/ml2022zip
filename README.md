@@ -26,6 +26,9 @@ conda install python=3.8.12 --yes
 > pip install imbalanced-learn
 
 > pip install lightgbm
+
+
+
 [https://imbalanced-learn.org/stable/over_sampling.html#from-random-over-sampling-to-smote-and-adasyn](https://imbalanced-learn.org/stable/over_sampling.html#from-random-over-sampling-to-smote-and-adasyn)
 
 --------
