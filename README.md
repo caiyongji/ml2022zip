@@ -27,6 +27,10 @@ conda install python=3.8.12 --yes
 
 > pip install lightgbm
 
+> pip install -i https://pypi.tuna.tsinghua.edu.cn/simple optuna
+
+> pip install -i https://pypi.tuna.tsinghua.edu.cn/simple plotly
+
 
 
 [https://imbalanced-learn.org/stable/over_sampling.html#from-random-over-sampling-to-smote-and-adasyn](https://imbalanced-learn.org/stable/over_sampling.html#from-random-over-sampling-to-smote-and-adasyn)
