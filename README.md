@@ -31,6 +31,8 @@ conda install python=3.8.12 --yes
 
 > pip install -i https://pypi.tuna.tsinghua.edu.cn/simple plotly
 
+> pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pympler
+
 
 
 [https://imbalanced-learn.org/stable/over_sampling.html#from-random-over-sampling-to-smote-and-adasyn](https://imbalanced-learn.org/stable/over_sampling.html#from-random-over-sampling-to-smote-and-adasyn)
